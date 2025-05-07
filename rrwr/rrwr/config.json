@@ -1,0 +1,13 @@
+{
+  "setting1": "value1",
+  "setting2": "value2",
+  "setting3": {
+    "subsetting1": "subvalue1",
+    "subsetting2": "subvalue2"
+  },
+  "listSetting": [
+    "item1",
+    "item2",
+    "item3"
+  ]
+}

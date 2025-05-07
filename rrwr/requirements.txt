@@ -1,0 +1,8 @@
+numpy
+pandas
+requests
+flask
+sqlalchemy
+beautifulsoup4
+lxml
+pytest
